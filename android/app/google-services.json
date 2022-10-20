@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931214792345",
+    "project_id": "authfirebasebillsbid",
+    "storage_bucket": "authfirebasebillsbid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931214792345:android:6fe2b381f551569c7d8a08",
+        "android_client_info": {
+          "package_name": "com.william_visentini.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931214792345-9ofja6d9immd0007c8bnpn4ff35nqv6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvWSW8nnhHlcPuzhnOF9Ih2b-lu5CDjSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931214792345-9ofja6d9immd0007c8bnpn4ff35nqv6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
